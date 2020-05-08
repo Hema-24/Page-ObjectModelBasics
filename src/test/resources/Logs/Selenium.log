@@ -1,0 +1,14 @@
+13:26:41,130 DEBUG devpinoyLogger:89 - config file loaded !!!
+13:26:41,132 DEBUG devpinoyLogger:104 - OR file loaded !!!!
+13:26:54,936 DEBUG devpinoyLogger:129 - chrome Launched !!!
+13:26:56,894 DEBUG devpinoyLogger:133 - Navigated to :http://www.zoho.com
+13:27:02,622 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+13:27:02,623 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+13:27:02,623 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:27:02,624 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:27:02,624 DEBUG cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/Users/vishalparihar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:27:13,165 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+13:27:13,166 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+13:27:13,166 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:27:13,166 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:27:13,166 DEBUG cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/Users/vishalparihar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
