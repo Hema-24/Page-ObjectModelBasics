@@ -13,6 +13,7 @@ import com.avh.TestUtilities.Utilities;
 import com.relevantcodes.extentreports.LogStatus;
 
 //to capture and add screenshot for failed testcase,we will add listeners customlisteners(itestlisteners)
+//to capture and add screenshot for failed testcase,we will add listeners customlisteners(itestlisteners)
 
 
 public class CustomListeners extends PageBase implements ITestListener {
@@ -24,7 +25,7 @@ public class CustomListeners extends PageBase implements ITestListener {
 		//if(!TestUtil.isTestRunnable(result.getName(), excel)) {
 		//	throw new SkipException("Skipping the test" + result.getName().toUpperCase()+" as the runmode is No");
 		//}
-		
+		//
 	}
 
 	public void onTestSuccess(ITestResult result) {

@@ -16,6 +16,8 @@ public class CRMHomePage extends PageBase{
 		click("goToAccounts_XPATH");
 		//PageBase.menu.gotoAccounts()
 		
+		
+		
 		return new AccountsPage();
 		
 		

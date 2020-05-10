@@ -10,7 +10,7 @@ import com.avh.Pages.ZohoAppPage;
 public class LoginTest extends PageBase{
 
 	public static void main(String[] args) throws InterruptedException {
-		
+		//this is a rough package
 	//because we are declaring this in pagebase class
 	//WebDriver driver = new FirefoxDriver();
     //System.setProperty("webdriver.chrome.driver",System.getProperty(("user.dir")+"/src/test/resources/executables/chromedriver"));
