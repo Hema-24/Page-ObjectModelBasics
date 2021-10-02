@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: PageObjectModelBasics
+Bundle-SymbolicName: PageObjectModelBasics
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.avh.Base,
+ com.avh.Listeners,
+ com.avh.Pages,
+ com.avh.Pages.crm,
+ com.avh.Pages.crm.accounts,
+ com.avh.Rough,
+ com.avh.TestUtilities,
+ com.avh.Testcases
